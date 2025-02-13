@@ -14,7 +14,7 @@ Step into the arena of precision and speed! In this Unity game, you control a sh
 
 ## 🎮 How to Play
 - **Rotate Shooter:**  
-  Use the `Left/Right Arrow Keys` to adjust your aim.
+  Use the `Left/Right Arrow Keys` or `A/D Keys` to adjust your aim.
 - **Fire:**  
   Press the `Spacebar` to shoot a raycast.
 - **Hit the Target:**  
@@ -30,6 +30,7 @@ Step into the arena of precision and speed! In this Unity game, you control a sh
 - Introduce multiple target types with varied behaviors.
 - Implement power-ups or additional weapons.
 - Enhance visual and audio feedback for a more immersive experience.
+- Introduce ML-agents to train the shooter to be able to shoot the target on it's own
 
 ## 📜 License
 This project is open-source under the MIT License.
